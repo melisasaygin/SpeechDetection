@@ -1,5 +1,5 @@
 # Speech Detection Repository
-This repository contains the machine learning analysis scripts as well as the final best models deployed for speech activity detection using different biosignal based methods. It is associated to the following paper: (to be added).
+Speech production confounds many psychophysiological parameters and can disrupt the true associations between psychosocial constructs and physiological reactivity. This repository ıs intended for use by ambulatory psychophysiology researchers, and contains the following: 1.machine learning analysis scripts used in the associated paper for training, validating, and comparing between speech detection methods, 2.final best models deployed for speech activity detection along with their feature extraction scripts. Example daily life data will be added in future. See the following paper () and pre-registration () for further description of utilization.
 
 The abbreviations found 
 

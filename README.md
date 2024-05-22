@@ -7,7 +7,7 @@ b) machine learning analysis scripts used in the associated paper for training, 
 
 c) script for comparing between the performances of different methods
 
-b) final best models deployed for speech activity detection 
+d) final best models deployed for speech activity detection 
 
 Example daily life data may be added in the future. See the following paper (to be added upon publication) and pre-registration (https://osf.io/bk9nf) for further description of use.
 

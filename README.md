@@ -9,7 +9,7 @@ c) script for comparing between the performances of different methods
 
 d) deployed best models for speech activity detection 
 
-Example daily life data may be added in the future. See the following paper (to be added upon publication) and pre-registration (https://osf.io/bk9nf) for further description of use.
+See the following paper (to be added upon publication) and pre-registration (https://osf.io/bk9nf) for further description of use.
 
 The abbreviations in this repository are:
 

@@ -7,7 +7,9 @@ b) machine learning analysis scripts used in the associated paper for training, 
 
 c) script for comparing between the performances of different methods
 
-d) deployed best models for speech activity detection 
+d) the best models for speech activity detection 
+
+e) a model for the sternal accelerometer method, that can function in 3-second intervals
 
 See the following paper (to be added upon publication) and pre-registration (https://osf.io/bk9nf) for further description of use.
 

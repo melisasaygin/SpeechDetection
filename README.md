@@ -26,3 +26,5 @@ The abbreviations in this repository are:
 The document including detailed instructions on the repository structure and how to implement the models to your data will be added upon publication.
 
 NOTE: If you cannot preview a .ipynb (notebook) file at a given time, this is likely a github related bug. Then, go to https://nbviewer.jupyter.org/ and paste the URL there to preview a document with its output. (Or, you can download the script file with the associated dataset and run it on your computer).
+
+If you can preview a notebook file, but when you download it on your system and click on the file see an "Unhandled error" tab, you should right click on the .ipynb_checkpoints folder in the same folder as your .ipynb notebook file. Once you right click, select Properties, and make sure the "Read-only" is unchecked. The user should have Write permissions (can check this under Security once you right-clicked). If this does not solve the issue, simply place the Jupyter notebook in a new, different folder.
